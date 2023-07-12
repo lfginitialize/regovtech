@@ -1,5 +1,5 @@
 # regovtech
-Regovtech Assignment
+//Regovtech Assignment
 There are five js. file represent respective components :
 Registration = RegistrationForm.js
 Login = LoginForm.js
